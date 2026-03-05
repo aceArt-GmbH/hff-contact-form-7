@@ -1,10 +1,11 @@
 <?php
 /*
- * Plugin Name: Contact Form 7
- * Plugin URI: https://contactform7.com/
- * Description: Just another contact form plugin. Simple but flexible.
- * Author: Rock Lobster Inc.
- * Author URI: https://github.com/rocklobster-in/
+ * Plugin Name: HFF Contact Form 7
+ * Plugin URI: https://github.com/aceArt-GmbH/hff-contact-form-7
+ * Update URI: false
+ * Description: HFF CF7 plugin version with Brevo contact update enabled. 
+ * Author: aceArt
+ * Author URI: https://github.com/aceArt-GmbH/hff-contact-form-7/tree/hff-cf7-custom
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Version: 6.2-dev
